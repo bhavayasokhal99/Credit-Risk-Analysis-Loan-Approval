@@ -1,2 +1,2 @@
-# Credit-Risk-Analysis-Loan-Approval-Prediction
-Machine Learning project for predicting loan approval and analyzing customer credit risk using Python.
+# Credit-Risk-Analysis-Loan-Approval
+Data Analysis project focused on customer credit risk assessment, exploratory data analysis, and business insights using Python.
